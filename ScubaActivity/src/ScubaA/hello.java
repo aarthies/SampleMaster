@@ -8,7 +8,8 @@ public class hello{
   Cricketers.add("MSD");   
   Cricketers.add("Yuvraj");    
   Cricketers.add("Sachin");    
-  Cricketers.add("Sehwag");    
+  Cricketers.add("AB De Villiers"); 
+  Cricketers.add("Kohli");
    
   Iterator itr=Cricketers.iterator();
   while(itr.hasNext()){ 
