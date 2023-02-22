@@ -10,6 +10,7 @@ public class hello{
   Cricketers.add("Sachin");    
   Cricketers.add("AB De Villiers"); 
   Cricketers.add("Kohli");
+  Cricketers.add("Raina");
    
   Iterator itr=Cricketers.iterator();
   while(itr.hasNext()){ 
